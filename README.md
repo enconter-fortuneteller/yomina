@@ -118,9 +118,9 @@
             </p>
             <div class="reveal reveal-delay-2 active flex flex-col items-center">
                 <a href="https://lin.ee/vBAU6Oq" class="btn-glow inline-block bg-moonlight text-midnight font-medium text-base md:text-lg px-12 py-5 rounded-full tracking-[0.1em] mb-3">
-                    無料鑑定を予約
+                    鑑定を予約する
                 </a>
-                <p class="text-xs text-moonlight/70 tracking-wider">進まない場合はブラウザで開き直してお進みください。</p>
+                <p class="text-xs text-moonlight/70 tracking-wider">進めない場合はブラウザで開いてお進みください。</p>
             </div>
         </div>
 
@@ -206,9 +206,9 @@
 
                 <div class="text-center mt-16 md:mt-24 reveal flex flex-col items-center">
                     <a href="https://lin.ee/vBAU6Oq" class="btn-glow inline-block bg-moonlight text-midnight font-medium text-base px-12 py-5 rounded-full tracking-[0.1em] mb-3">
-                        無料鑑定を予約
+                        鑑定を予約する
                     </a>
-                    <p class="text-xs text-moonlight/70 tracking-wider">進まない場合はブラウザで開き直してお進みください。</p>
+                    <p class="text-xs text-moonlight/70 tracking-wider">進めない場合はブラウザで開いてお進みください。</p>
                 </div>
             </div>
         </section>
@@ -225,14 +225,14 @@
                     <div class="absolute bottom-0 right-0 w-4 h-4 border-b border-r border-moonlight"></div>
                     
                     <p class="text-base md:text-lg text-ivory/90 leading-[2.2] tracking-wide mb-10 text-left md:text-center">
-                        復縁・複雑愛・今後の展開など、ご相談者様の状況に合わせて心を込めて深く鑑定させていただきます。
+                        復縁・複雑愛・今後の展開など、ご相談者様の状況に合わせた特別な鑑定をご用意しております。
                     </p>
                     
                     <div class="bg-midnight/50 p-6 inline-block w-full">
-                        <p class="text-moonlight text-sm md:text-base leading-relaxed tracking-wide font-medium md:text-center text-left">
-                            ※本気で運命を変えたいと願う方のみ承っております。<br>
-                            悩みがない方、相手への敬意がない対応の方へは鑑定はお断りさせて頂いておりますのでご了承ください。<br><br>
-                            ※対面、オンラインでの鑑定はご紹介のみのためSNSでは承っておりません。<br class="md:hidden">
+                        <p class="text-moonlight text-sm md:text-base leading-relaxed tracking-wide font-medium">
+                            ※無料鑑定は承っておりません。<br class="md:hidden">
+                            本気で運命を変えたいと願う方のみ、<br class="md:hidden">有料にて承っております。<br><br>
+                            ※オンライン鑑定は承っておりません。<br class="md:hidden">
                             鑑定書という形でお渡しさせて頂きます。
                         </p>
                     </div>
@@ -294,9 +294,9 @@
                 <div class="bg-white/[0.03] border border-moonlight/30 p-8 md:p-12 rounded-2xl backdrop-blur-sm flex flex-col items-center">
                     <p class="text-sm text-moonlight tracking-widest mb-6">特別鑑定のご予約はこちらから</p>
                     <a href="https://lin.ee/vBAU6Oq" class="btn-glow inline-block w-full md:w-auto bg-moonlight text-midnight font-medium text-lg px-16 py-5 rounded-full tracking-[0.1em] mb-3">
-                        無料鑑定を予約
+                        鑑定を予約する
                     </a>
-                    <p class="text-xs text-moonlight/70 tracking-wider mb-6">進まない場合はブラウザで開き直してお進みください。</p>
+                    <p class="text-xs text-moonlight/70 tracking-wider mb-6">進めない場合はブラウザで開いてお進みください。</p>
                     <p class="text-xs text-ivory/60 tracking-wider">※ご相談内容は固く秘密厳守いたします。</p>
                 </div>
             </div>
